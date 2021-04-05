@@ -1,3 +1,6 @@
 # Dipole Emission
 This is the readme file.
-Dipole emission radiation pattern for two atoms with sliding separation.
+Dipole emission radiation pattern for:
+SingleAtom.py - one atom
+TwoAtoms.py  - two atoms with sliding separation
+
